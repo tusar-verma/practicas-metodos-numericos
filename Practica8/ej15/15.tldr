@@ -42,9 +42,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 2491.260975637088,
-			"y": 2448.276772005196,
-			"lastActivityTimestamp": 1717554550290,
+			"x": -101.68079606810198,
+			"y": 1258.3163083066754,
+			"lastActivityTimestamp": 1717601696151,
 			"meta": {}
 		},
 		{
@@ -74,12 +74,12 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1232,
-				"h": 573.3333740234375
+				"w": 1151.6666259765625,
+				"h": 603.3333129882812
 			},
 			"insets": [
 				false,
-				false,
+				true,
 				true,
 				false
 			],
@@ -93,7 +93,7 @@
 			"isFocused": true,
 			"devicePixelRatio": 1.5,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
+			"isHoveringCanvas": false,
 			"openMenus": [],
 			"isChangingStyle": false,
 			"isReadonly": false,
@@ -106,9 +106,7 @@
 		{
 			"editingShapeId": "shape:q2zKw_IowSaAPNbo1W_Pc",
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:q2zKw_IowSaAPNbo1W_Pc"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -119,9 +117,9 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": -1520.568941630098,
-			"y": -1855.5618867525093,
-			"z": 0.6861084429123935,
+			"x": 516.253847495379,
+			"y": -1130.1913342320731,
+			"z": 0.37469519776875704,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -30962,8 +30960,8 @@
 			"props": {
 				"color": "violet",
 				"size": "m",
-				"w": 656.3333740234375,
-				"text": "Porque el rango(col(A)) = rango(filas(A)) \nentonces el rango(A) = rango(col(A)) = rango(fila(A))",
+				"w": 657.09375,
+				"text": "11el rango(col(A)) = rango(filas(A)) \nentonces el rango(A) = rango(col(A)) = rango(fila(A))",
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
